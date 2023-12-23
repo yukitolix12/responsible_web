@@ -13,3 +13,7 @@ a {
 p {
     font-size: 1.3rem;
 }
+
+img {
+    max-width: 100%;
+}
