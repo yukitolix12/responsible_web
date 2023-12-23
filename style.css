@@ -24,3 +24,11 @@ li {
 }
 
 /* header */
+#header {
+    max-width: 960px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 0 4%;
+}
