@@ -31,6 +31,7 @@ li {
     justify-content: space-between;
     margin: 0 auto;
     padding: 0 4%;
+    height: 170px;
 }
 
 #header ul {
