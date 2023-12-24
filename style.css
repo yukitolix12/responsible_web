@@ -44,3 +44,7 @@ li {
     font-size: 0.9rem;
     margin-left: 30px;
 }
+
+#header ul li a {
+    color: #24292e;
+}
