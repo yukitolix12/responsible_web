@@ -48,3 +48,7 @@ li {
 #header ul li a {
     color: #24292e;
 }
+
+#header ul li a:hover {
+    opacity: 0.5;
+}
