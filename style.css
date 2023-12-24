@@ -23,6 +23,12 @@ li {
     font-size: 1.2rem;
 }
 
+.site-title {
+    line-height: 1px;
+    font-weight: 600;
+    font-size: 2.4rem;
+}
+
 /* header */
 #header {
     max-width: 960px;
