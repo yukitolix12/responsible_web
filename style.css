@@ -63,3 +63,7 @@ li {
 #header ul li a:hover {
     opacity: 0.5;
 }
+
+#header li img.icon {
+    width: 30px;
+}
