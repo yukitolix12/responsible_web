@@ -29,6 +29,10 @@ li {
     font-size: 2.4rem;
 }
 
+.site-title a {
+    color: #24292e;
+}
+
 /* header */
 #header {
     max-width: 960px;
