@@ -81,4 +81,9 @@ li {
         line-height: 40px;
         margin-top: 20px;
     }
+
+    #header li {
+        font-size: 0.8rem;
+        margin-left: 20px;
+    }
 }
