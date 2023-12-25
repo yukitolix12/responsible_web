@@ -86,4 +86,9 @@ li {
         font-size: 0.8rem;
         margin-left: 20px;
     }
+
+    #header li img.icon {
+        width: 20px;
+        margin-top: 15px;
+    }
 }
