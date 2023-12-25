@@ -67,3 +67,8 @@ li {
 #header li img.icon {
     width: 30px;
 }
+
+/* sp */
+@media screen and (max-width: 600px) {
+
+}
