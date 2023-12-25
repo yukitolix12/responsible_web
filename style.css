@@ -70,6 +70,10 @@ li {
 
 /* sp */
 @media screen and (max-width: 600px) {
+    .site-title {
+        margin-top: 20px;
+    }
+
     /* header */
     #header {
         flex-direction: column;
