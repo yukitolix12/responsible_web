@@ -70,5 +70,11 @@ li {
 
 /* sp */
 @media screen and (max-width: 600px) {
-
+    /* header */
+    #header {
+        flex-direction: column;
+        height: auto;
+        line-height: 40px;
+        margin-top: 20px;
+    }
 }
