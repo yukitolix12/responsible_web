@@ -68,6 +68,14 @@ li {
     width: 30px;
 }
 
+/* main */
+#main img {
+    width: 100%;
+    max-width: 1920px;
+    height: 400px;
+    object-fit: cover;
+}
+
 /* sp */
 @media screen and (max-width: 600px) {
     .site-title {
