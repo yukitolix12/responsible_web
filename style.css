@@ -97,6 +97,10 @@ li {
     margin-bottom: 30px;
 } 
 
+#about ul li:first-child {
+    margin-bottom: 30px;
+}
+
 /* sp */
 @media screen and (max-width: 600px) {
     .site-title {
