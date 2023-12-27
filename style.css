@@ -97,6 +97,10 @@ li {
     margin-bottom: 30px;
 } 
 
+#about ul li {
+    margin-bottom: 3px;
+}
+
 #about ul li:first-child {
     margin-bottom: 30px;
 }
