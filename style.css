@@ -92,6 +92,10 @@ li {
     height: 400px;
     object-fit: cover;
 }
+/* about */
+#about ul {
+    margin-bottom: 30px;
+} 
 
 /* sp */
 @media screen and (max-width: 600px) {
