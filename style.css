@@ -122,6 +122,11 @@ li {
     cursor: pointer;
 }
 
+#works ul li img:hover {
+    transform: scale(1.2, 1.2);
+    opacity: 0.7;
+}
+
 /* sp */
 @media screen and (max-width: 600px) {
     .site-title {
