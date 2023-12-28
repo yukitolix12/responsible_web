@@ -112,6 +112,10 @@ li {
     flex-wrap: wrap;
 }
 
+#works ul li {
+    width: 31%;
+}
+
 /* sp */
 @media screen and (max-width: 600px) {
     .site-title {
