@@ -110,10 +110,12 @@ li {
 #works ul {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 #works ul li {
     width: 31%;
+    margin-bottom: 23px;
 }
 
 /* sp */
