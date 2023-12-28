@@ -118,6 +118,10 @@ li {
     margin-bottom: 23px;
 }
 
+#works ul li img {
+    cursor: pointer;
+}
+
 /* sp */
 @media screen and (max-width: 600px) {
     .site-title {
