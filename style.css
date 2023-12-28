@@ -120,6 +120,7 @@ li {
 
 #works ul li img {
     cursor: pointer;
+    transition: all 0.3s;
 }
 
 #works ul li img:hover {
