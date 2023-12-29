@@ -133,14 +133,18 @@ li {
 #news dl {
     display: flex;
     flex-wrap: wrap;
+    border-top: 1px solid #c8c8c8;
+    margin-bottom: 20px;
 }
 
 #news dt {
     width: 20%;
+    border-bottom: 1px solid #c8c8c8;
 }
 
 #news dd {
     width: 80%;
+    border-bottom: 1px solid #c8c8c8;
 }
 
 /* sp */
