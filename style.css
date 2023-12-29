@@ -155,6 +155,10 @@ li {
     margin-bottom: 20px;
 }
 
+#contact dl {
+    display: flex;
+    flex-wrap: wrap;
+}
 
 /* sp */
 @media screen and (max-width: 600px) {
