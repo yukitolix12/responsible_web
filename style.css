@@ -135,6 +135,10 @@ li {
     flex-wrap: wrap;
 }
 
+#news dt {
+    width: 20%;
+}
+
 /* sp */
 @media screen and (max-width: 600px) {
     .site-title {
