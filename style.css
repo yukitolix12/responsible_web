@@ -160,6 +160,10 @@ li {
     flex-wrap: wrap;
 }
 
+#contact dt {
+    width: 15%;
+}
+
 /* sp */
 @media screen and (max-width: 600px) {
     .site-title {
