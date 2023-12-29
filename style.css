@@ -181,6 +181,10 @@ li {
     height: 10rem;
 }
 
+#contact .button {
+    text-align: center;
+}
+
 /* sp */
 @media screen and (max-width: 600px) {
     .site-title {
