@@ -139,6 +139,10 @@ li {
     width: 20%;
 }
 
+#news dd {
+    width: 80%;
+}
+
 /* sp */
 @media screen and (max-width: 600px) {
     .site-title {
