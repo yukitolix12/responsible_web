@@ -162,11 +162,12 @@ li {
 
 #contact dt {
     width: 15%;
+    margin-bottom: 10px;
 }
 
 #contact dd {
     width: 85%;
-    
+    margin-bottom: 10px;
 }
 
 /* sp */
