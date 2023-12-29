@@ -164,6 +164,11 @@ li {
     width: 15%;
 }
 
+#contact dd {
+    width: 85%;
+    
+}
+
 /* sp */
 @media screen and (max-width: 600px) {
     .site-title {
