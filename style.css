@@ -177,6 +177,10 @@ li {
     padding: 10px;
 }
 
+#contact dd textarea {
+    height: 10rem;
+}
+
 /* sp */
 @media screen and (max-width: 600px) {
     .site-title {
