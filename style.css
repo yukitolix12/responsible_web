@@ -191,6 +191,7 @@ li {
     width: 200px;
     padding: 15px 0;
     color: #fff;
+    transition: all 0.3s;
 }
 
 #contact .button input:hover {
