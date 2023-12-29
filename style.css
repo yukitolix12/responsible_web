@@ -185,6 +185,14 @@ li {
     text-align: center;
 }
 
+#contact .button input {
+    border: 1px solid #24292e;
+    background-color: #24292e;
+    width: 200px;
+    padding: 15px 0;
+    color: #fff;
+}
+
 /* sp */
 @media screen and (max-width: 600px) {
     .site-title {
