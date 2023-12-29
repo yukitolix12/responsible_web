@@ -252,4 +252,13 @@ li {
     #contact dl {
         flex-direction: column;
     }
+
+    #contact dt {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    #contact dd {
+        width: 100%;
+    }
 }
