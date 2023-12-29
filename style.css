@@ -247,4 +247,9 @@ li {
         width: 100%;
         padding-top: 0;
     }
+
+    /* contact */
+    #contact dl {
+        flex-direction: column;
+    }
 }
