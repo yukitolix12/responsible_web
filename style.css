@@ -140,11 +140,13 @@ li {
 #news dt {
     width: 20%;
     border-bottom: 1px solid #c8c8c8;
+    padding: 15px;
 }
 
 #news dd {
     width: 80%;
     border-bottom: 1px solid #c8c8c8;
+    padding: 15px;
 }
 
 /* sp */
